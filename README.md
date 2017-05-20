@@ -7,6 +7,8 @@
 - [x] Закинути в кожен файл статтю на вибір
 - [x] Відредагувати статті
 
+![](https://image.prntscr.com/image/a257e153011c4f7bbe248d00fc67f35c.png)  
+
 Виконав: [Дацків Андрій][LinkedIn]
 
 [LinkedIn]: https://www.linkedin.com/in/andrii-datskiv-88630a101/
