@@ -16,5 +16,13 @@
 
 Премьера приключений пирата-прохвоста в кинотеатрах состоится **25 мая 2017 года**.  
 
+### Коментарі:
+---
+> ![][first comment]  
+
+> ![][second comment]  
+
 [pirate]: http://itc.ua/wp-content/uploads/2017/05/potc5_dtlr4_2k_r709_marketing_stills_022317_86412_r_8a775940.0.jpeg
 [deadline site]: http://deadline.com/2017/05/pirates-of-the-caribbean-dead-men-tell-no-tales-hackers-ransom-1202094203/
+[first comment]: https://image.prntscr.com/image/c7bfe2d2ead2429185b5e5f80dcb9bdc.png
+[second comment]: https://image.prntscr.com/image/fee61f47186e4bd897155e33b1c841ba.png
