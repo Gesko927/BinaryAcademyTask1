@@ -12,3 +12,9 @@
 > "Дякую, цікава ідея. Україна дуже хоче стати випробувальним полігоном для інновацій.Давайте поговоримо про це докладніше", — написав Гройсман.
 
 ![](http://www.segodnya.ua/img/forall/users/2852/285255/new/222.jpg)
+
+### Коментарі:
+---
+> ![](https://image.prntscr.com/image/e1e91765c85745b98325774db57ec28b.png)  
+
+> ![](https://image.prntscr.com/image/d4ee82c44cf04b419068dc15cd949b54.png)
