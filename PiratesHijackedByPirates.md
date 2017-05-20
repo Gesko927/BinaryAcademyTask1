@@ -20,9 +20,19 @@
 ---
 > ![][first comment]  
 
+Відповідь:  
+> ![][first answer]  
+---
 > ![][second comment]  
+
+Відповідь:  
+> ![][second answer]  
+
+Оригинальная статтья [здесь](https://tech.onliner.by/2017/05/16/pirates-pirated-pirates).
 
 [pirate]: http://itc.ua/wp-content/uploads/2017/05/potc5_dtlr4_2k_r709_marketing_stills_022317_86412_r_8a775940.0.jpeg
 [deadline site]: http://deadline.com/2017/05/pirates-of-the-caribbean-dead-men-tell-no-tales-hackers-ransom-1202094203/
 [first comment]: https://image.prntscr.com/image/c7bfe2d2ead2429185b5e5f80dcb9bdc.png
 [second comment]: https://image.prntscr.com/image/fee61f47186e4bd897155e33b1c841ba.png
+[first answer]: https://pp.userapi.com/c631917/v631917224/3a994/2EOBDYEcAKM.jpg
+[second answer]: https://pp.userapi.com/c631917/v631917224/3a9da/ZU7b-jpFWsU.jpg
