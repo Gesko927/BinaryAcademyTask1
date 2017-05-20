@@ -7,21 +7,31 @@
 > "Звичайно. Просто ознайомтеся з моїм попереднім твітом про ціну (250 доларів за кВт/год на рівні пакета). 
 Сайт скоро оновимо, тому буде повна прозорість", — написав він.  
 
-![](https://eimg.pravda.com/images/doc/4/1/41a794b-----.png)  
+![][first tweet]  
 Громадське зауважує, що своєю чергою прем’єр-міністр України Володимир Гройсман відреагував на повідомлення Маска та запропонував поговорити про це детальніше.  
 > "Дякую, цікава ідея. Україна дуже хоче стати випробувальним полігоном для інновацій.Давайте поговоримо про це докладніше", — написав Гройсман.
 
-![](http://www.segodnya.ua/img/forall/users/2852/285255/new/222.jpg)
+![][second tweet]  
 
 ### Коментарі:
 ---
-> ![](https://image.prntscr.com/image/e1e91765c85745b98325774db57ec28b.png)  
+> ![][first comment]  
 
 #### Відповідь:  
-> ![](https://pp.userapi.com/c631917/v631917224/3a98d/mkkAuo7ybIc.jpg)  
+> ![][first answer]  
 
 ---
-> ![](https://image.prntscr.com/image/d4ee82c44cf04b419068dc15cd949b54.png)  
+> ![][second comment]  
  
 #### Відповідь:
-> ![](https://pp.userapi.com/c631917/v631917224/3a9e1/38RuGwIEahg.jpg)
+> ![][second answer]  
+
+Оригінальна стаття [тут](http://expres.ua/news/2017/03/13/232639-ilon-mask-zacikavyvsya-ukrayinoyu).
+
+
+[first tweet]: https://eimg.pravda.com/images/doc/4/1/41a794b-----.png
+[second tweet]: http://www.segodnya.ua/img/forall/users/2852/285255/new/222.jpg
+[first comment]: https://image.prntscr.com/image/e1e91765c85745b98325774db57ec28b.png
+[second comment]: https://image.prntscr.com/image/d4ee82c44cf04b419068dc15cd949b54.png
+[first answer]: https://pp.userapi.com/c631917/v631917224/3a98d/mkkAuo7ybIc.jpg
+[second answer]: https://pp.userapi.com/c631917/v631917224/3a9e1/38RuGwIEahg.jpg
