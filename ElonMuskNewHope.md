@@ -17,4 +17,11 @@
 ---
 > ![](https://image.prntscr.com/image/e1e91765c85745b98325774db57ec28b.png)  
 
-> ![](https://image.prntscr.com/image/d4ee82c44cf04b419068dc15cd949b54.png)
+#### Â³äïîâ³äü:  
+> ![](https://pp.userapi.com/c631917/v631917224/3a98d/mkkAuo7ybIc.jpg)  
+
+---
+> ![](https://image.prntscr.com/image/d4ee82c44cf04b419068dc15cd949b54.png)  
+ 
+#### Â³äïîâ³äü:
+> ![](https://pp.userapi.com/c631917/v631917224/3a9e1/38RuGwIEahg.jpg)
